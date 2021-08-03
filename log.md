@@ -13,6 +13,6 @@
 
 **Today's Progress**: Furniture Shop LP. Added webpack config & webpack dependencies. Created app.js & app.scss files (with imported normalize.css)
 
-**Thoughts:** It's was dificult to configure webpack, because i don't have experience with this tool & even don't know its core concepts. 
+**Thoughts:** It's was dificult to configure webpack, because i don't have work experience with this tool & even don't know its core concepts. 
 
 **Link to work:** [Furniture LP](https://github.com/EugeneKwasny/furniture-lp.github.io)
