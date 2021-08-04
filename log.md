@@ -13,6 +13,13 @@
 
 **Today's Progress**: Furniture Shop LP. Added webpack config & webpack dependencies. Created app.js & app.scss files (with imported normalize.css)
 
-**Thoughts:** It's was dificult to configure webpack, because i don't have work experience with this tool & even don't know its core concepts. 
+**Thoughts:** It was dificult to configure webpack, because i don't have work experience with this tool & even don't know its core concepts. 
+
+**Link to work:** [Furniture LP](https://github.com/EugeneKwasny/furniture-lp.github.io)
+
+### Day 2: August 04, 2021
+
+**Today's Progress**: Furniture Shop LP. Replaced img placeholder with demo images exported from Figma
+**Thoughts:** With pleasure managed this task 
 
 **Link to work:** [Furniture LP](https://github.com/EugeneKwasny/furniture-lp.github.io)
