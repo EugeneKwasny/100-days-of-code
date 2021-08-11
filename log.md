@@ -23,3 +23,11 @@
 **Thoughts:** With pleasure managed this task 
 
 **Link to work:** [Furniture LP](https://github.com/EugeneKwasny/furniture-lp.github.io)
+
+
+### Day 0: August 11, 2021
+
+**Today's Progress**: Furniture Shop LP. Migration to React lib
+**Thoughts:** I missed one week of daily coding challenge, so I decided to reset my challenge day counter and to start from 0
+
+**Link to work:** [Furniture LP](https://github.com/EugeneKwasny/furniture-lp.github.io)
